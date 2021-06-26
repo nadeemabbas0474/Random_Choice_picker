@@ -19,6 +19,7 @@ body {
 h3 {
     color: #fff;
     margin: 10px 0 20px;
+    text-align: center;
 }
 
 .container {
@@ -46,6 +47,6 @@ textarea {
     display: inline-block;
 }
 
-.tag.heighlight {
+.tag.highlight {
     background-color: green;
 }
